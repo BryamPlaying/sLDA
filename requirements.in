@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+tabulate
+wordcloud
+nltk
+langchain
+sentence-transformers
+ipykernel
+jupyterlab
+tqdm
