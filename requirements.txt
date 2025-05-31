@@ -12,3 +12,4 @@ ipykernel==6.29.4
 langchain-core>=0.1.52
 langsmith>=0.1.0
 jupyterlab>=4.2.0
+langchain==0.3.25
